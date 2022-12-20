@@ -1,6 +1,7 @@
-### Hi there 👋 
+<!-- ### Hi there 👋  -->
 
 ### Shoaib Hussain
+<p>(frontend developer, Freelance Web Developer, YouTuber,)</p>
 
 <!--
 **Xaib026/Xaib026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
